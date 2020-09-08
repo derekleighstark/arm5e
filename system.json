@@ -50,6 +50,22 @@
       "path": "packs/items.db",
       "entity": "Item"
     },
+        {
+      "name": "Virtue",
+      "label": "Virtue",
+      "system": "arm5e",
+      "module": "arm5e",
+      "path": "packs/Virtue.db",
+      "entity": "Virtue"
+    },
+        {
+      "name": "Flaw",
+      "label": "Flaw",
+      "system": "arm5e",
+      "module": "arm5e",
+      "path": "packs/Flaw.db",
+      "entity": "Flaw"
+    },
     {
       "name": "scenes",
       "label": "Scenes",
